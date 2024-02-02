@@ -3,6 +3,7 @@
 
 A clone made to make the news reading habit easy by scraping the news from the https://news.ycombinator.com/ 
 
+<img width="946" alt="Screenshot 2024-02-02 164644" src="https://github.com/Tarun222999/stream_line_news/assets/111749548/a7f8db65-b85a-4829-8083-6149e0801a0b">
 
 ## Features
 1) Each news item will have the following fields - url, hacker news url, posted on, upvotes and comments. 
@@ -37,4 +38,8 @@ Step 3:
         i)cd frontend
         ii)npm install 
         iii)npm run dev
+
+
+
+
          
