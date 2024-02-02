@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Juno – A YouTube Client for Vision Pro",
+        "href": "https://christianselig.com/2024/02/introducing-juno/",
+        "score": "126 points",
+        "user": "axxl",
+        "age": "1 hour ago",
+        "comments": "42 comments"
+    },
+    {
+        "title": "Starlink's laser system is beaming 42 petabytes of data per day",
+        "href": "https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day",
+        "score": "328 points",
+        "user": "alden5",
+        "age": "10 hours ago",
+        "comments": "312 comments"
+    },
+    {
+        "title": "OLMo: Accelerating the Science of Language Models [pdf]",
+        "href": "https://allenai.org/olmo/olmo-paper.pdf",
+        "score": "81 points",
+        "user": "chuckhend",
+        "age": "5 hours ago",
+        "comments": "24 comments"
+    },
+    {
+        "title": "We built our customer data warehouse all on Postgres",
+        "href": "https://tembo.io/blog/tembo-data-warehouse",
+        "score": "7 points",
+        "user": "samaysharma",
+        "age": "1 hour ago",
+        "comments": "discuss"
+    },
+    {
+        "title": "Thanksgiving 2023 security incident",
+        "href": "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
+        "score": "468 points",
+        "user": "nomaxx117",
+        "age": "10 hours ago",
+        "comments": "248 comments"
+    },
+    {
+        "title": "A Man Who Invented VR Goggles 50 Years Too Soon",
+        "href": "https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon",
+        "score": "38 points",
+        "user": "andsoitis",
+        "age": "4 hours ago",
+        "comments": "14 comments"
+    },
+    {
+        "title": "Show HN: Stanchion – Column-oriented tables in SQLite",
+        "href": "https://github.com/dgllghr/stanchion",
+        "score": "197 points",
+        "user": "dgllghr",
+        "age": "10 hours ago",
+        "comments": "51 comments"
+    },
+    {
+        "title": "My favourite Git commit (2019)",
+        "href": "https://dhwthompson.com/2019/my-favourite-git-commit",
+        "score": "554 points",
+        "user": "karagenit",
+        "age": "14 hours ago",
+        "comments": "324 comments"
+    },
+    {
+        "title": "Ask HN: Who is hiring? (February 2024)",
+        "href": "item?id=39217310",
+        "score": "327 points",
+        "user": "whoishiring",
+        "age": "14 hours ago",
+        "comments": "310 comments"
+    },
+    {
+        "title": "Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265",
+        "href": "https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode",
+        "score": "51 points",
+        "user": "doener",
+        "age": "6 hours ago",
+        "comments": "5 comments"
+    },
+    {
+        "title": "Ask HN: Who wants to be hired? (February 2024)",
+        "href": "item?id=39217308",
+        "score": "132 points",
+        "user": "whoishiring",
+        "age": "14 hours ago",
+        "comments": "286 comments"
+    },
+    {
+        "title": "FDA says 561 deaths tied to recalled Philips sleep apnea machines",
+        "href": "https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/",
+        "score": "125 points",
+        "user": "pizza",
+        "age": "4 hours ago",
+        "comments": "52 comments"
+    },
+    {
+        "title": "240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver",
+        "href": "https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article",
+        "score": "103 points",
+        "user": "ulrischa",
+        "age": "11 hours ago",
+        "comments": "47 comments"
+    },
+    {
+        "title": "Ask HN: Guide for Implementing Common Lisp",
+        "href": "item?id=39213261",
+        "score": "25 points",
+        "user": "HexDecOctBin",
+        "age": "3 hours ago",
+        "comments": "23 comments"
+    },
+    {
+        "title": "The medieval habit of 'two sleeps'",
+        "href": "https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep",
+        "score": "25 points",
+        "user": "arctic_relegate",
+        "age": "2 hours ago",
+        "comments": "11 comments"
+    },
+    {
+        "title": "Rivers Cuomo is an active developer on GitHub",
+        "href": "https://github.com/riverscuomo",
+        "score": "158 points",
+        "user": "volleygman180",
+        "age": "8 hours ago",
+        "comments": "71 comments"
+    },
+    {
+        "title": "Unlogged (YC S22) Is Hiring a Founding Engineer",
+        "href": "item?id=39223649",
+        "score": "N/A",
+        "user": "N/A",
+        "age": "5 hours ago",
+        "comments": "N/A"
+    },
+    {
+        "title": "Genetic autopsies to unravel the mystery of sudden deaths",
+        "href": "https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html",
+        "score": "44 points",
+        "user": "PaulHoule",
+        "age": "8 hours ago",
+        "comments": "37 comments"
+    },
+    {
+        "title": "Solving SAT via Positive Supercompilation",
+        "href": "https://hirrolot.github.io/posts/sat-supercompilation.html",
+        "score": "131 points",
+        "user": "Hirrolot",
+        "age": "13 hours ago",
+        "comments": "22 comments"
+    },
+    {
+        "title": "The web just gets better with Interop 2024",
+        "href": "https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/",
+        "score": "211 points",
+        "user": "feross",
+        "age": "12 hours ago",
+        "comments": "136 comments"
+    },
+    {
+        "title": "Two Mindsets That Can Create Rude or Polite Coworkers",
+        "href": "https://journals.aom.org/doi/10.5465/amd.2022.0069.summary",
+        "score": "22 points",
+        "user": "rustoo",
+        "age": "6 hours ago",
+        "comments": "6 comments"
+    },
+    {
+        "title": "Launch HN: Escape (YC W23) – Discover and secure all your APIs",
+        "href": "item?id=39215779",
+        "score": "80 points",
+        "user": "glimow",
+        "age": "16 hours ago",
+        "comments": "29 comments"
+    },
+    {
+        "title": "NTP Timelord Dies",
+        "href": "https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html",
+        "score": "13 points",
+        "user": "talonx",
+        "age": "1 hour ago",
+        "comments": "discuss"
+    },
+    {
+        "title": "Fixing a broken smart cat feeder with ESP32",
+        "href": "https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/",
+        "score": "50 points",
+        "user": "EvanAnderson",
+        "age": "8 hours ago",
+        "comments": "25 comments"
+    },
+    {
+        "title": "Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow",
+        "href": "https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=",
+        "score": "61 points",
+        "user": "gmays",
+        "age": "10 hours ago",
+        "comments": "25 comments"
+    },
+    {
+        "title": "Apple declares last MacBook Pro with an optical drive obsolete",
+        "href": "https://arstechnica.com/gadgets/2024/01/apple-declares-last-macbook-pro-with-an-optical-drive-obsolete/",
+        "score": "34 points",
+        "user": "mfiguiere",
+        "age": "3 hours ago",
+        "comments": "55 comments"
+    },
+    {
+        "title": "The FCC wants to criminalize AI robocall spam",
+        "href": "https://www.theregister.com/2024/02/02/fcc_ai_robocall/",
+        "score": "49 points",
+        "user": "mikece",
+        "age": "3 hours ago",
+        "comments": "16 comments"
+    },
+    {
+        "title": "A startup allegedly 'hacked the world', then came censorship, and now backlash",
+        "href": "https://www.wired.com/story/appin-training-centers-lawsuits-censorship/",
+        "score": "147 points",
+        "user": "coloneltcb",
+        "age": "8 hours ago",
+        "comments": "45 comments"
+    },
+    {
+        "title": "Show HN: ML Blocks – Deploy multimodal AI workflows without code",
+        "href": "https://www.mlblocks.com/",
+        "score": "99 points",
+        "user": "neilxm",
+        "age": "14 hours ago",
+        "comments": "32 comments"
+    },
+    {
+        "title": "USB-C power for your Amiga 500, 600 and 1200",
+        "href": "https://retrousbpower.com",
+        "score": "7 points",
+        "user": "nickt",
+        "age": "3 hours ago",
+        "comments": "discuss"
+    }
+]

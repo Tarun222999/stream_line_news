@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles for the article container */
+.max-w-xl {
+    width: calc(33.3333% - 2rem);
+    /* 3 articles in a row with some spacing */
+    margin: 1rem;
+}
+
+/* Media query for responsiveness - adjust as needed */
+@media (max-width: 768px) {
+    .max-w-xl {
+        width: calc(50% - 2rem);
+        /* 2 articles in a row on smaller screens */
+    }
+}
